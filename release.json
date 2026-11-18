@@ -1,0 +1,238 @@
+{
+  "version": "0.8.4",
+  "build": "0.8.3-anchors",
+  "exe_sha256": "ecf52321921387e683904e089082d76b973326fc093af14e524056715519c1cf",
+  "dll_sha256": "0f1c1f7a8f66ff646458ac0eea6c64024ea3fbebab140c03ecce321e37289596",
+  "resources": [
+    {
+      "type": 1016,
+      "id": 2348,
+      "original_sha256": "bd1c9e289bd105cac81659f248ec3d0518c297283560b030ed36198eaf32e1a9",
+      "modified_sha256": "776e29fa27dcff0cc5bd1552107d6b315f97e3d5123983d293ea0416b2f14f16"
+    },
+    {
+      "type": 18002,
+      "id": 63,
+      "original_sha256": "a439fc0d972ccf88c311afb3c29e10c648561bf3c48eb3b4fc71b9413f4085fa",
+      "modified_sha256": "4190203244445b0ae07706ebda2a70eb7cadb70d43d03e396bcee2736763a948",
+      "movie": {
+        "id": 63,
+        "name": "MENU_MAIN_01.gfx",
+        "signatures": [
+          {
+            "offset": 372,
+            "magic": "GFX",
+            "version": 15,
+            "length": 225577
+          }
+        ]
+      },
+      "layout_program": {
+        "original": "eef7bc15c28b494c0bf49887be45a08ddecb081cd61b30f863145b6ff7a0a739",
+        "modified": "c0e8f896b055fbb374a890d014d9fed6128480efc0a3dc83c0d601e48d8bfe7f"
+      }
+    },
+    {
+      "type": 18002,
+      "id": 64,
+      "original_sha256": "da5e303bcdd6f9105a9ebe9e333260059639da73ad13cb9aabd7971ecd206f86",
+      "modified_sha256": "e55ac180273b6641005b96a0be718a1ae812d039fa6a48e21b4e669fa77b0cf3",
+      "movie": {
+        "id": 64,
+        "name": "MENU_PAUSE_01.gfx",
+        "signatures": [
+          {
+            "offset": 374,
+            "magic": "GFX",
+            "version": 15,
+            "length": 245633
+          }
+        ]
+      },
+      "layout_program": {
+        "original": "7ca26aceb318228662c3c60347d57d83d7da03cca62f08e05ebdd22c698bb716",
+        "modified": "01a35ff364c16a19f8d598911fe0ecc775f2b143f8cf4f8c65006b401d471868"
+      }
+    },
+    {
+      "type": 18002,
+      "id": 125,
+      "original_sha256": "29369225e9bed2f2042779a8a7b98beb27e18af8e773245af7800a8113214e18",
+      "modified_sha256": "29db35a8156400ed1ac058b15a29816df4539f666f2b53795d2bf3803c09d17c",
+      "movie": {
+        "id": 125,
+        "name": "MENU_LEGAL_01.gfx",
+        "signatures": [
+          {
+            "offset": 124,
+            "magic": "GFX",
+            "version": 15,
+            "length": 31343
+          }
+        ]
+      }
+    },
+    {
+      "type": 18002,
+      "id": 217,
+      "original_sha256": "79961aa3b8846f9b4261b57e011f2009b0cf061a24bc83c30abb3ea4d53937fa",
+      "modified_sha256": "e92a993deb0be8eb7e84af74ce6fa5a65502912b6a177c725cc1ea06343cede9",
+      "movie": {
+        "id": 217,
+        "name": "MENU_OPTIONS_PC.gfx",
+        "signatures": [
+          {
+            "offset": 369,
+            "magic": "GFX",
+            "version": 16,
+            "length": 340983
+          }
+        ]
+      },
+      "layout_program": {
+        "original": "9eb0bd3ff0c4db28484287454bc6dfececdd31be740a8610c75142549e3de5b9",
+        "modified": "1a6f24afbeaac4076156866e90ec82789e9cc1d9620586ce01d56a3dd874e02d"
+      }
+    },
+    {
+      "type": 18002,
+      "id": 111,
+      "original_sha256": "04bfeb1e30cb1651fca361faa26e4db9b7d18ad4e634e39a1395f14db7a4ba65",
+      "modified_sha256": "606d9d6fa5d4776e457e5c855ae4cac01431b14b6ac0bf5fcd0697a1db32f39c",
+      "movie": {
+        "id": 111,
+        "name": "GLOBAL_LOADING_01.gfx",
+        "signatures": [
+          {
+            "offset": 123,
+            "magic": "GFX",
+            "version": 21,
+            "length": 29383
+          }
+        ]
+      },
+      "layout_program": {
+        "original": "91b289f5bf5a9f7339c19f79d96973dbca8781038891d1eb2e5fec301228eddf",
+        "modified": "d0cfe385dbcd91f6968140435da8b6e061c53ea69d75354f68df88293d43f04f"
+      }
+    },
+    {
+      "type": 18002,
+      "id": 191,
+      "original_sha256": "8b94dca8a4d80fa6f103c5694d1959288ebea3174db86acda5cd4b5e5f133593",
+      "modified_sha256": "4818515488c13c89fcd39ae18a5d7c1564942a547a445c2d50de683e2bd751d9",
+      "movie": {
+        "id": 191,
+        "name": "GLOBAL_SCENE_LOCATION.gfx",
+        "signatures": [
+          {
+            "offset": 372,
+            "magic": "GFX",
+            "version": 21,
+            "length": 45345
+          }
+        ]
+      },
+      "layout_program": {
+        "original": "2347cf10a330bfdaf01ee5ef93cb803ae29ea27aa619916d46babb8765c6a888",
+        "modified": "85a859f5800626d605de30e0acb4648d03e75b75f5beffbdb85adb55ea659347"
+      }
+    },
+    {
+      "type": 18002,
+      "id": 193,
+      "original_sha256": "486480b0040d51782e9d0f53e66ca8aa5b4b5f233f6361925171d749a56da569",
+      "modified_sha256": "94a38789bf9270cc5f1dd96ed0e138a661314f780cdb2450f96caed0b06e342f",
+      "movie": {
+        "id": 193,
+        "name": "GLOBAL_GAUGE_BENDING.gfx",
+        "signatures": [
+          {
+            "offset": 370,
+            "magic": "GFX",
+            "version": 21,
+            "length": 65463
+          }
+        ]
+      },
+      "layout_program": {
+        "original": "49a5df8bd8494c03a568db8eeec0c505fd4c0e6667478e5b2214b4e1b17bb52d",
+        "modified": "d84062c8f20b234dc903472f8c79c75fb74fdb72a4d2bae9b3928a367c10a70b"
+      }
+    },
+    {
+      "type": 18002,
+      "id": 202,
+      "original_sha256": "14151185d5c3abb34b463b1641d13ed6a97f71c7b6898c5644786c2c068021f1",
+      "modified_sha256": "d77322cd0e08fac7d65e0e4d76216c5f7ee5205f3c5f2880db28be667721fa00",
+      "movie": {
+        "id": 202,
+        "name": "BFD_LOCATION_TIME.gfx",
+        "signatures": [
+          {
+            "offset": 364,
+            "magic": "GFX",
+            "version": 21,
+            "length": 45033
+          }
+        ]
+      },
+      "layout_program": {
+        "original": "e981fa0ceadfca0d140bd54ce84a33d6221a80c3142f3b9780b2360557f6fce7",
+        "modified": "416e3429535829f7887196dcf3ac31a4d01ab80b590e1865ce4833bc16780f63"
+      }
+    },
+    {
+      "type": 18002,
+      "id": 203,
+      "original_sha256": "007bfd5cb46bf4ee33d586115d262758fd31c5f40c3a1046914665f971608db9",
+      "modified_sha256": "d7a295f71384f3dafa94a9987ff7717015dac157ee0fb69ec2d58d5fad148de1",
+      "movie": {
+        "id": 203,
+        "name": "GLOBAL_LOADING_BARPMU.gfx",
+        "signatures": [
+          {
+            "offset": 372,
+            "magic": "GFX",
+            "version": 21,
+            "length": 47078
+          }
+        ]
+      },
+      "layout_program": {
+        "original": "b2abf159e9584c3a03117ceeed9198b77ce9d5fa96325460f1b0c7d21e96e75d",
+        "modified": "bb819acb9ed81283e8f4afeeece0c6880061a6a55f0f73563ec099f54db21368"
+      }
+    },
+    {
+      "type": 18002,
+      "id": 214,
+      "original_sha256": "b6fba7def2d440cc9141843341ee5812f15c08c4a642aab4d193d16b23468df8",
+      "modified_sha256": "666d76d115c50726ffe749a729661a556adaaaf3aed29d4e8770364c2441c7b2",
+      "movie": {
+        "id": 214,
+        "name": "GLOBAL_BENDING_NOTOTO.gfx",
+        "signatures": [
+          {
+            "offset": 372,
+            "magic": "GFX",
+            "version": 21,
+            "length": 64438
+          }
+        ]
+      },
+      "layout_program": {
+        "original": "aa4cf9d88b24dc88491d3c7fac05eb6b479db5da4d0df8334e515b97e8a31f87",
+        "modified": "81415871fc79aa7f1fd00c85bd7f25f87fb0b4b72ad81d9d7d10988c97f093aa"
+      }
+    }
+  ],
+  "engine_image": {
+    "size": 57986328,
+    "timestamp": 440,
+    "checksum": 520,
+    "certificate": 600,
+    "sha256": "3a1774387208cd38b3b8497e6f22d5773686384f107b1b09ab225ffc1408eff2"
+  },
+  "legacy_dll_sha256": "c185ecd4e3cf8ded6fdc75301f49cee462772a33725d65c07a0455933efa3dc0"
+}
