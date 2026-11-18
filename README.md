@@ -2,6 +2,9 @@
 
 Detroit Adaptive Display is a display patch for *Detroit: Become Human* on 64-bit Windows. It adjusts the camera, menus, and on-screen indicators for different aspect ratios. The full patch also crops prerecorded video proportionally and adds frame rate options of 30, 60, 90, 144, and Unlimited.
 
+<img width="1920" height="1200" alt="Captura de pantalla 2026-11-17 205925" src="https://github.com/user-attachments/assets/5e2bad6d-7a7d-4182-a7de-9b9ad56d1bea" />
+
+
 ## Install the patch
 
 Download one of the two ZIP files from **Releases** and close the game. [Release notes for v0.8.4](README-RELEASE.md)
